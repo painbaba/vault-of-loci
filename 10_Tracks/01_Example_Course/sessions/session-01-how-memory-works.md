@@ -31,7 +31,7 @@ Understand why testing beats rereading, and be able to explain it without notes.
 
 1. Rereading feels productive because the text becomes familiar.
 2. Retrieval practice: trying to recall before looking. See [[Retrieval_Practice|Retrieval practice]] and the [[Test-Enhanced_Learning_(Roediger_and_Karpicke,_2006)|original experiment]].
-3. Spacing: reviews spread over days beat the same time in one session.
+3. Spacing: reviews spread over days beat the same time in one session. See [[Spacing|Spacing]].
 
 ## Recall without notes
 
@@ -52,6 +52,7 @@ If I sit down for session 02, then I write the pretest guesses first, before I l
 ## Concepts introduced
 
 - [[Retrieval_Practice|Retrieval practice]]
+- [[Spacing|Spacing]]
 
 ## Flashcards
 
